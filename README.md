@@ -14,3 +14,5 @@ Link http://astyle.sourceforge.net/astyle.html
 --align-reference=type
 --pad-comma
 --pad-oper
+--unpad-paren
+--break-blocks
